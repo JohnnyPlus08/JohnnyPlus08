@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="./logo.png" width="120" alt="Logo Cofre de Notas" />
-
   # Olá, eu sou o Johnny da Silva Franco de Lima👋
   ### 🎓 Desenvolvedor Full-Stack & Game Dev em formação
 
