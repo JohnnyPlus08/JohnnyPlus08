@@ -3,7 +3,7 @@
   # Olá, eu sou o Johnny da Silva Franco de Lima👋
   ### 🎓 Desenvolvedor Full-Stack & Game Dev em formação
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnny-lima)
+  [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnny-lima](https://www.linkedin.com/in/johnny-da-silva-franco-de-lima-8b07b759/?isSelfProfile=true))
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnnyPlus08)
 
   ---
